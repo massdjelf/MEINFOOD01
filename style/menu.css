@@ -5,7 +5,7 @@ margin: 0px;}
 body{margin: 0;
     background-repeat: no-repeat;
     background-size: 100%;
-   background-image: url(images/dessert.jpg);
+   background-image: url(./images/dessert.jpg);
 padding: 0;
 
 }
