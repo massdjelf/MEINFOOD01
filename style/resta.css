@@ -13,7 +13,7 @@
 
 body{
     margin: 0%;
-    background-image: url(./images/plat.jpg);
+    background-image: url(./image/plat.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 
@@ -129,7 +129,7 @@ border-width: 10px;
     border-color: rgb(44, 8, 102);
     
     align-self: center;
-    margin-bottom: 10%;
+    margin-bottom: 8%;
 }
 
 
