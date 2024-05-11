@@ -13,7 +13,7 @@
 
 body{
     margin: 0%;
-    background-image: url(./image/plat.jpg);
+    background-image: url(../images/plat.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 
@@ -64,7 +64,7 @@ padding: 3%;
     .title{
         font-family: fayez;
         color: rgb(158, 24, 24);
-        background-image: url(images/ketchup1.jpg);
+        background-image: url(../images/ketchup1.jpg);
         position: absolute;
         bottom: 91%;
         left: 0;
